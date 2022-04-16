@@ -1,0 +1,18 @@
+{
+  "Title": "Black Hole Maps",
+  "Type": "map",
+  "Org": "wogs",
+  "Ident": "blackholemaps",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "wogs.blackhole"
+    ]
+  }
+}
